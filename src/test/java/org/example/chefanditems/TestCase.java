@@ -1,4 +1,4 @@
 package org.example.chefanditems;
 
-public class Test2 {
+public class TestCase {
 }
